@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1719205548 source:c:\users\tiago\desktop\utn\tp final progra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	"pila.h"
+
+1709414296 c:\users\tiago\desktop\utn\tp final progra\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1709414296 source:c:\users\tiago\desktop\utn\tp final progra\pila.c
+	"pila.h"
+
+1719207783 source:c:\users\tiago\desktop\utn\tp final - programación l\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	"pila.h"
+
+1709414296 c:\users\tiago\desktop\utn\tp final - programación l\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1709414296 source:c:\users\tiago\desktop\utn\tp final - programación l\pila.c
+	"pila.h"
+
+1719209984 source:c:\users\tiago\desktop\utn\programación 1\tp final - programación l\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	"pila.h"
+
+1709414296 c:\users\tiago\desktop\utn\programación 1\tp final - programación l\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1709414296 source:c:\users\tiago\desktop\utn\programación 1\tp final - programación l\pila.c
+	"pila.h"
+
